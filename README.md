@@ -62,4 +62,33 @@ git submodule update --init --recursive
 ```
 If skipped, folders such as ICT-FaceKit/ may appear empty.
 
+---
 
+# Licence
+
+This project is licensed under the AGPL-3.0 License.
+
+In summary:
+
+You may use, modify, and distribute this software.
+
+Any modified version or derivative work must also be released under AGPL-3.0.
+
+If you run this software as part of a network service, you must provide users access to the full corresponding source code, including your modifications.
+
+Commercial use is allowed, but the copyleft requirement still applies.
+
+See the full license text in:
+
+LICENSE
+
+---
+
+# Contact
+
+For questions or collaboration inquiries:
+
+Inyup Lee
+📧 leeinyup123@kaist.ac.kr
+
+KAIST Visual Media Lab

@@ -34,7 +34,6 @@ The project includes:
 This repository uses **Git submodules** (e.g., ICT-FaceKit).  
 Follow the steps below to properly install and configure the project.
 
----
 
 ## 0. Install Dependencies
 Using pip:
@@ -50,7 +49,6 @@ conda activate <env_name>
 
 
 ## 1. Clone the Repository
-
 ```bash
 git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
 cd <YOUR_REPO_NAME>
@@ -58,13 +56,10 @@ cd <YOUR_REPO_NAME>
 
 
 ## 2. Initialize Submodules
-
 Submodules are not automatically pulled during a standard clone. Run:
-
 ```bash
 git submodule update --init --recursive
 ```
-
 If skipped, folders such as ICT-FaceKit/ may appear empty.
 
 

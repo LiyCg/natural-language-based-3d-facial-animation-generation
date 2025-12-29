@@ -7,7 +7,7 @@ The project includes:
 - A Motion Database (Motion_DB) for maintaining edit history  
 - FacialMotion, a blendshape-based animation engine  
 - Integration with **ICT-FaceKit** (included as a Git submodule) for 3D mesh decoding and rendering  
-
+ 
 ---
 
 # Features
@@ -26,7 +26,7 @@ The project includes:
 
 - **Modular Architecture**  
   Motion generation, decoding, and rendering are separated for flexibility.
-
+ 
 ---
 
 # Installation
